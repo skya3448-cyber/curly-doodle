@@ -1,0 +1,9 @@
+
+algorithm: a step by step procedure to solve a specific problem
+program:step by step procedure to solve a probelem
+ALGORITHM VS PROGRAM
+1.An algorith is an abstract concept.Wheras ,a program is a concrete implementation of algorithm.
+2.An algorithm can be written in any language,while a program must be written in programming language only.
+3.An algorithm is developed during  the design phase, while a program is developed during the developement phase.
+4.Algorithm does not depend on any operating system or hardware, while a program depend on them.
+5.An algorithm is always analyzed,while a program is tested.
