@@ -7,3 +7,12 @@ ALGORITHM VS PROGRAM
 3.An algorithm is developed during  the design phase, while a program is developed during the developement phase.
 4.Algorithm does not depend on any operating system or hardware, while a program depend on them.
 5.An algorithm is always analyzed,while a program is tested.
+
+
+CHARACTERSTICS OF AN ALGORITHM
+1.INPUT:An algorithm can take 0 or more inputs.
+2.OUTPUT:An algorithm must provide at least 1 output.
+3.FINITENESS:An algorithm must terminate in infinite time.
+4.DEFINITENES:An algorithm must be clear and unambigeous.
+5.EFFECTIVENESS:An algorithm should take less time and space to execute.
+
