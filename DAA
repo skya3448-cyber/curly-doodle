@@ -16,3 +16,12 @@ CHARACTERSTICS OF AN ALGORITHM
 4.DEFINITENES:An algorithm must be clear and unambigeous.
 5.EFFECTIVENESS:An algorithm should take less time and space to execute.
 
+DECIDABLE PROBLEMS
+*The problem for which efficeint algorithm exists.
+*Takes polynomial time to execute.
+
+UNDICIDABLE
+*No efficient algorithm exists.
+*Takes exponantial time to execute.
+
+
