@@ -22,6 +22,16 @@ DECIDABLE PROBLEMS
 
 UNDICIDABLE
 *No efficient algorithm exists.
-*Takes exponantial time to execute.
+*Takes exponential time to execute.
+
+1.POSTERIORI VS 2.PRIORI ANALYIS
+1:Estimation of time and memory apace required by an algorithm before executing it on the system.
+1.independent of the programming language.
+1.independent on the hardware.
+
+2.calculation of time and memory space required by an algorithm after executing it on the system.
+2.dependent on the programming language.
+2.dependent on hardware.
+
 
 
