@@ -34,4 +34,17 @@ UNDICIDABLE
 2.dependent on hardware.
 
 
+THE NATURE OF UNDESIBLE PROBLEMS
+the number of instructions=2^100
+2^20 instruction per second
+In 1 year ,the computer can execute
+=2^45 instruction in 1 year
+2^45 -------> 1 year
+2^100------->2^100/2^45
+
+2^55 years
+Undeciable problems are which no efficient algorithm.
+
+
+
 
